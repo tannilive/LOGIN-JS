@@ -1,1 +1,2 @@
-print("Hello", "how are you?")
+import streamlit as ss
+ss.write ("Hello")
